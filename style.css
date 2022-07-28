@@ -1,0 +1,75 @@
+.col1 {
+            background-color: #474e5d;
+            color: white;
+        }
+
+        .font1 {
+            font-family: 'PT Sans', sans-serif;
+        }
+
+        .header1 {
+            font-family: 'PT Sans', sans-serif;
+            font-size: 19pt;
+            color: white;
+        }
+
+        .header2 {
+            font-family: 'PT Sans', sans-serif;
+            font-size: 40pt;
+            font-weight: bold;
+            color: white;
+        }
+        .header-company{
+            margin-top:0px;
+        }
+
+        #header1 {
+            font-family: 'PT Sans', sans-serif;
+            font-size: 19pt;
+            color: white;
+            font-weight: normal;
+        }
+
+        .col2 {
+            background-color: white;
+        }
+
+        .parag {
+            margin-left: 40px;
+        }
+
+        .btn-tech {
+            border-radius: 8px;
+            margin: 5px;
+            background-color: #f0f0f0;
+            color: black;
+        }
+
+        .btn-tech:hover {
+            background-color: #dbdbdb;
+            cursor: unset;
+        }
+        .btn-social{
+            font-size:12px;
+        }
+        .personal-footer {
+            padding-top: 60px;
+            padding-bottom: 20px;
+        }
+        .content-padding {
+            padding-bottom:20px;
+        }
+        .row {
+            margin-right: 0px;
+            margin-left:0px;
+        }
+        .container-fluid {
+            padding-right: 0px;
+            padding-left: 0px;
+        }
+
+        .img-fluid {
+            max-width: 70%;
+            height: auto;
+            display: block;
+        }
